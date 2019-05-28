@@ -17,7 +17,7 @@ nav a {
 }
 
 header {
-    background: url(images/separateur.png) repeat-x bottom;
+    background: url(/images/separateur.png) repeat-x bottom;
 }
 
 .titulo {
@@ -99,7 +99,7 @@ nav a:hover {
     position: absolute;
     right: 5px;
     bottom: 5px;
-    background: url(images/fond_degraderouge.png) repeat-x;
+    background: url(/images/fond_degraderouge.png) repeat-x;
     /* background-color: #5e0608;*/
     border: 1px solid #760001;
     border-radius: 5px;
@@ -161,7 +161,7 @@ aside img {
 
 footer {
     padding-top: 25px;
-    background: url(images/separateur.png) repeat-x top, url(images/ico_top.png) no-repeat top center;
+    background: url(/images/separateur.png) repeat-x top, url(/images/ico_top.png) no-repeat top center;
 }
 
 footer p,
